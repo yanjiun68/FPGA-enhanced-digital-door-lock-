@@ -92,17 +92,7 @@ stateDiagram-v2
 | `MAX_FAILED_ATTEMPTS` | `5` | Number of failed attempts before lockdown |
 | `BLINK_HALF_CYCLES` | `CLK_FREQ_HZ / 2` | Controls 0.5-second LED flicker interval |
 
-## Suggested Repository Structure
 
-```text
-fpga-digital-smart-door-lock/
-|-- README.md
-|-- custom_FPGA_door_lock.v
-|-- tb_custom_FPGA_door_lock.v
-|-- docs/
-|   `-- fsm_and_behavior.md
-`-- constraints/
-    `-- pin_assignment.tcl
 ```
 
 
