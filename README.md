@@ -96,7 +96,7 @@ stateDiagram-v2
 
 Some project files are also available through Google Drive for easy access and download.
 
-Google Drive Folder: [Click here to view the project files]https://drive.google.com/drive/folders/1sDLkc0g3rXkC0f21ifyeGjmCD6ekcpxQ?usp=sharing
+Google Drive Folder: [Click here to view the project files](https://drive.google.com/drive/folders/1sDLkc0g3rXkC0f21ifyeGjmCD6ekcpxQ?usp=sharing)
 
 The Google Drive folder may include:
 
