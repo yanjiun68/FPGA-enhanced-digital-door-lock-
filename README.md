@@ -92,6 +92,24 @@ stateDiagram-v2
 | `MAX_FAILED_ATTEMPTS` | `5` | Number of failed attempts before lockdown |
 | `BLINK_HALF_CYCLES` | `CLK_FREQ_HZ / 2` | Controls 0.5-second LED flicker interval |
 
+## Project Files
+
+Some project files are also available through Google Drive for easy access and download.
+
+Google Drive Folder: [Click here to view the project files]https://drive.google.com/drive/folders/1sDLkc0g3rXkC0f21ifyeGjmCD6ekcpxQ?usp=sharing
+
+The Google Drive folder may include:
+
+| File | Description |
+|---|---|
+| `custom_FPGA_door_lock.v` | Main Verilog source code for the FPGA smart door lock |
+| `tb_custom_FPGA_door_lock_final.v` | Testbench file for simulation and functional verification |
+| `custom_FPGA_door_lock.qsf` | Quartus pin assignment and project settings file |
+| `custom_FPGA_door_lock.qpf` | Quartus project file |
+| `FPGA_Digital_Door_Lock_Rechecked_Standard_Report.docx` | Full project report and documentation |
+
+> Note: If the link does not open, make sure the Google Drive sharing setting is set to **Anyone with the link can view**.
+
 
 ```
 
